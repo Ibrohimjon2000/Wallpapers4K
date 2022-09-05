@@ -124,6 +124,7 @@ class MainActivity : AppCompatActivity() {
         navController.addOnDestinationChangedListener { navController, navDestination, bundle ->
             if (navDestination.id == R.id.imageInfoFragment) {
                 drawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED)
+                hide()
             } else {
                 drawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_UNLOCKED)
             }
@@ -148,7 +149,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun hide() {
-        supportActionBar!!.hide()
+        supportActionBar?.hide()
         binding.appBarMain.contentMain.cardBarView.visibility = View.INVISIBLE
     }
 
@@ -157,7 +158,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun show() {
-        supportActionBar!!.show()
+        supportActionBar?.show()
         binding.appBarMain.contentMain.cardBarView.visibility = View.VISIBLE
     }
 }
