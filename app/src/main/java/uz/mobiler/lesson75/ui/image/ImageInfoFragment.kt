@@ -892,6 +892,7 @@ class ImageInfoFragment : Fragment() {
                         RequestOptions().centerCrop()
                     )
                     .into(img)
+                isFilter=false
             }
 
             binding.back.setOnClickListener {
