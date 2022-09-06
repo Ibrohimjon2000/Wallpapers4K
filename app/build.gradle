@@ -61,4 +61,7 @@ dependencies {
     kapt 'androidx.room:room-compiler:2.4.3'
     implementation 'com.guolindev.permissionx:permissionx:1.6.4'
 
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.github.hgayan7:FilterLibrary:0.1.0'
+
 }
