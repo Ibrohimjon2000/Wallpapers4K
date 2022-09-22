@@ -1,16 +1,14 @@
 # Wallpapers4K
-
-![Screenshot_20220906-150913_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188613961-a477e674-01e8-4592-addc-3de0aab9cdde.jpg)
-![Screenshot_20220906-151120_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188613988-2103c34d-aaae-47e0-bae8-b80c258d065b.jpg)
-![Screenshot_20220906-151009_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188614008-59ab405b-414c-408a-b2d8-e39475053a07.jpg)
-![Screenshot_20220906-151022_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188614044-40bdf522-2e8f-49a5-a13f-ee3f7d83a389.jpg)
-![Screenshot_20220906-151048_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188614060-1ed5f261-58dc-4d19-9d29-223f3ac3cb80.jpg)
-![Screenshot_20220906-151100_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188614071-240e55d5-4f8b-49a1-9555-7c1f5c02ecb5.jpg)
-![Screenshot_20220906-151200_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188614103-50110e3b-c77d-40d9-bf68-e7ad68230b99.jpg)
-![Screenshot_20220906-151456_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188614114-029123ad-c897-4c00-b1ad-8d2819f6e7f9.jpg)
-![Screenshot_20220906-151333_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188614212-59a9c02a-575d-41b9-bd68-18cf9c172f5e.jpg)
-![Screenshot_20220906-151318_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188614226-4c9b0ec9-7ad3-45da-9379-cd99af6c1df7.jpg)
-![Screenshot_20220906-151326_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188614234-b3460c52-e7bb-450c-b530-4d2c39a8e717.jpg)
-![Screenshot_20220906-151343_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188614266-b40cb4ec-132f-4dc0-97b2-60e72e3047dc.jpg)
-![Screenshot_20220906-151349_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188614279-7a92c4ff-f261-4883-8e99-2eb4e72196da.jpg)
-![Screenshot_20220906-151401_Wallpapers 4k](https://user-images.githubusercontent.com/93897784/188614299-9a4c8576-7c73-4126-ad4f-c012338048c0.jpg)
+<img src="https://i.imgur.com/cIvkdEU.jpg" width="300"> <img src="https://i.imgur.com/HjMjEBj.jpg" width="300">
+<img src="https://i.imgur.com/u2fQv5Y.jpg" width="300">
+<img src="https://i.imgur.com/0n7bGfQ.jpg" width="300">
+<img src="https://i.imgur.com/2X76BiT.jpg" width="300">
+<img src="https://i.imgur.com/ZQHG1e1.jpg" width="300">
+<img src="https://i.imgur.com/VLPaLTj.jpg" width="300">
+<img src="https://i.imgur.com/mmwQPKp.jpg" width="300">
+<img src="https://i.imgur.com/EomkKSE.jpg" width="300">
+<img src="https://i.imgur.com/rutsx7h.jpg" width="300">
+<img src="https://i.imgur.com/kH3V7cY.jpg" width="300">
+<img src="https://i.imgur.com/eWmCypj.jpg" width="300">
+<img src="https://i.imgur.com/wWQ4N2f.jpg" width="300">
+<img src="https://i.imgur.com/PQf76iQ.jpg" width="300">
